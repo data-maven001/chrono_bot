@@ -5,7 +5,7 @@ import wikipedia
 st.set_page_config(page_title="ChronoBOT", layout="centered")
 
 # --- Logo ---
-st.image("assests/logo.png", width=250)  # Make sure logo is in 'assets' folder
+st.image("assests/logo.png", width=500)  # Make sure logo is in 'assets' folder
 
 # --- Title & Theme ---
 st.title(" ChronoBOT: Ask Me About History ")
