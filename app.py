@@ -8,7 +8,7 @@ st.set_page_config(page_title="ChronoBOT", layout="centered")
 st.image("assests/logo.png", width=250)  # Make sure logo is in 'assets' folder
 
 # --- Title & Theme ---
-st.title(" ChronoBOT: Ask Me About History & Famous People")
+st.title(" ChronoBOT: Ask Me About History ")
 theme = st.toggle("🌗 Dark Mode")
 
 # --- Styling for Dark Mode ---
